@@ -1,2 +1,3 @@
 line 1
+goodbye
 line 2
